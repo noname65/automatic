@@ -1,5 +1,5 @@
 # automatic
-A helper program written for the mobile game Arknights.
+A helper program written for the mobile game Arknights.\n
 Target:
 1. Find the button through image recognition (the image recognition algorithm here cannot recognize the image that has been filtered and partially blocked)
 2. Simulate mouse click (mouse momentarily moves, click time is fixed, anti-cheating algorithm can be locked according to these characteristics)
