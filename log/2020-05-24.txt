@@ -1,0 +1,227 @@
+[15:54:36]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:01:36]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/作战.png". result=true x=1044|y=197|36/305
+[16:01:37]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/关闭公告.png". result=false
+[16:01:38]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:01:40]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:01:41]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:01:43]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:01:44]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:01:45]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:01:47]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:01:47]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/作战.png". result=true x=1044|y=197|23/610
+[16:01:47]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/作战.png". result=true x=1044|y=197|21/305
+[16:01:47]ClickLeftMouse(x=1100,y=224,wait=10)
+[16:01:50]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=true x=33|y=46|0/166
+[16:01:50]ClickLeftMouse(x=236,y=711,wait=10)
+[16:01:51]ClickLeftMouse(x=144,y=421,wait=10)
+[16:01:52]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=true x=33|y=46|0/166
+[16:01:52]ClickLeftMouse(x=1024,y=251,wait=10)
+[16:01:55]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/代理关.png". result=false
+[16:01:55]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=false
+[16:01:55]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/作战.png". result=false
+[16:14:24]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/作战.png". result=false
+[16:14:25]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/关闭公告.png". result=false
+[16:14:26]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:14:28]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:14:29]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:14:30]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:14:32]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:14:33]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:14:34]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:14:35]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/作战.png". result=false
+[16:14:35]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/菜单.png". result=true x=273|y=101|0/16
+[16:14:35]mouseMove(x=281,y=110)
+[16:14:35]ClickLeftMouse(wait=10)
+[16:14:36]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/菜单-作战.png". result=false
+[16:14:37]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/菜单-作战.png". result=true x=590|y=145|4/99
+[16:14:37]mouseMove(x=612,y=167)
+[16:14:37]ClickLeftMouse(wait=10)
+[16:14:39]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=true x=33|y=46|0/166
+[16:14:39]mouseMove(x=236,y=711)
+[16:14:39]ClickLeftMouse(wait=10)
+[16:14:40]mouseMove(x=144,y=421)
+[16:14:40]ClickLeftMouse(wait=10)
+[16:14:42]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=true x=33|y=46|0/166
+[16:14:42]mouseMove(x=1024,y=251)
+[16:14:42]ClickLeftMouse(wait=10)
+[16:14:44]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/代理关.png". result=false
+[16:14:44]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=true x=33|y=46|0/166
+[16:14:45]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/作战.png". result=false
+[16:14:46]56/130 I
+
+
+[16:14:47]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/开始行动1.png". result=true x=1204|y=682|0/398
+[16:14:47]mouseMove(x=1292,y=704)
+[16:14:47]ClickLeftMouse(wait=10)
+[16:14:47]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/开始行动2.png". result=false
+[16:14:48]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/开始行动2.png". result=true x=1123|y=521|0/523
+[16:14:48]mouseMove(x=1171,y=575)
+[16:14:48]ClickLeftMouse(wait=10)
+[16:14:49]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:14:51]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:14:53]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:14:56]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:14:58]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:01]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:03]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:05]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:08]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:10]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:12]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:15]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:17]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:19]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:22]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:24]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:26]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:29]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:31]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:33]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:36]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:38]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:40]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:43]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:45]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:47]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:50]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:52]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:54]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:57]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:15:59]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:01]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:04]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:06]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:08]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:11]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:13]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:15]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:18]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:20]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:22]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:25]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:27]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:29]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:32]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:34]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:37]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:39]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:41]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:44]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:46]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:48]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:51]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:53]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:56]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:16:58]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:00]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:03]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:05]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:08]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:10]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:12]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:15]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:17]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:20]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:22]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:24]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:27]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:29]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:32]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:34]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:36]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:39]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:41]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:44]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:46]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=false
+[16:17:48]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/通关.png". result=true x=879|y=534|0/163
+[16:17:48]mouseMove(x=944,y=546)
+[16:17:48]ClickLeftMouse(wait=10)
+[16:18:00]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/代理关.png". result=false
+[16:18:00]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=true x=33|y=46|0/166
+[16:18:01]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/作战.png". result=false
+[16:18:01]
+[16:22:03]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/作战.png". result=false
+[16:22:03]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/关闭公告.png". result=false
+[16:22:05]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:22:06]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:22:08]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:22:09]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:22:10]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:22:12]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:22:13]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/新邮件.png". result=false
+[16:22:13]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/作战.png". result=false
+[16:22:14]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/菜单.png". result=true x=273|y=101|0/16
+[16:22:14]mouseMove(x=281,y=110)
+[16:22:14]ClickLeftMouse(wait=10)
+[16:22:14]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/菜单-作战.png". result=false
+[16:22:15]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/菜单-作战.png". result=true x=590|y=145|4/99
+[16:22:15]mouseMove(x=612,y=167)
+[16:22:15]ClickLeftMouse(wait=10)
+[16:22:18]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=true x=33|y=46|0/166
+[16:22:18]mouseMove(x=236,y=711)
+[16:22:18]ClickLeftMouse(wait=10)
+[16:22:19]mouseMove(x=144,y=421)
+[16:22:19]ClickLeftMouse(wait=10)
+[16:22:20]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=true x=33|y=46|0/166
+[16:22:20]mouseMove(x=1024,y=251)
+[16:22:20]ClickLeftMouse(wait=10)
+[16:22:23]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/代理关.png". result=false
+[16:22:23]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=true x=33|y=46|0/166
+[16:22:23]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/作战.png". result=false
+[16:22:25]27/130 I
+
+
+[16:27:45]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/采购中心.png". result=false
+[16:28:26]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/采购中心.png". result=false
+[16:28:28]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=true x=33|y=46|0/166
+[16:28:28]mouseMove(x=1403,y=53)
+[16:28:28]ClickLeftMouse(wait=10)
+[16:28:28]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/采购中心.png". result=false
+[16:28:29]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=true x=33|y=46|0/166
+[16:28:29]mouseMove(x=1403,y=53)
+[16:28:29]ClickLeftMouse(wait=10)
+[16:28:30]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/采购中心.png". result=false
+[16:28:31]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=true x=33|y=46|0/166
+[16:28:31]mouseMove(x=1403,y=53)
+[16:28:31]ClickLeftMouse(wait=10)
+[16:28:32]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/采购中心.png". result=false
+[16:28:33]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=false
+[16:28:33]mouseMove(x=1403,y=53)
+[16:28:33]ClickLeftMouse(wait=10)
+[16:28:33]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/采购中心.png". result=false
+[16:28:35]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=false
+[16:28:35]mouseMove(x=1403,y=53)
+[16:28:35]ClickLeftMouse(wait=10)
+[16:28:35]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/采购中心.png". result=false
+[16:28:37]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=false
+[16:28:37]mouseMove(x=1403,y=53)
+[16:28:37]ClickLeftMouse(wait=10)
+[16:28:37]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/采购中心.png". result=false
+[16:28:38]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=false
+[16:28:38]mouseMove(x=1403,y=53)
+[16:28:38]ClickLeftMouse(wait=10)
+[16:28:39]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/采购中心.png". result=false
+[16:28:40]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=false
+[16:28:40]mouseMove(x=1403,y=53)
+[16:28:40]ClickLeftMouse(wait=10)
+[16:28:40]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/采购中心.png". result=false
+[16:28:42]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=false
+[16:28:42]mouseMove(x=1403,y=53)
+[16:28:42]ClickLeftMouse(wait=10)
+[16:28:42]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/采购中心.png". result=false
+[16:28:44]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=false
+[16:28:44]mouseMove(x=1403,y=53)
+[16:28:44]ClickLeftMouse(wait=10)
+[16:28:44]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/采购中心.png". result=false
+[16:28:45]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=false
+[16:28:45]mouseMove(x=1403,y=53)
+[16:28:45]ClickLeftMouse(wait=10)
+[16:28:46]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/采购中心.png". result=false
+[16:28:47]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=false
+[16:28:47]mouseMove(x=1403,y=53)
+[16:28:47]ClickLeftMouse(wait=10)
+[16:28:47]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/采购中心.png". result=false
+[16:28:49]Find "D:\Documents\NetBeansProjects\automatic\Graphics\坐标原点.png". result=false
+[16:28:49]mouseMove(x=1403,y=53)
+[16:28:49]ClickLeftMouse(wait=10)
+[16:28:49]Find "D:\Documents\NetBeansProjects\automatic\Graphics\明日方舟/采购中心.png". result=false
